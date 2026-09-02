@@ -1,4 +1,4 @@
-package HierarchialInheritance;
+package Inheritance.HierarchialInheritance;
 
 public class TestHierarchial {
     public static void main(String[] args) {

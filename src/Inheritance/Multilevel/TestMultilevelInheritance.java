@@ -1,4 +1,4 @@
-package Multilevel;
+package Inheritance.Multilevel;
 
 public class TestMultilevelInheritance {
     public static void main(String[] args) {

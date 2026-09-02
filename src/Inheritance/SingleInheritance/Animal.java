@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SingleInheritance;
 
 public class Animal {
     void eat(){

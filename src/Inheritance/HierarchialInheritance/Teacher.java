@@ -1,4 +1,4 @@
-package HierarchialInheritance;
+package Inheritance.HierarchialInheritance;
 
 public class Teacher {
     void teach(){

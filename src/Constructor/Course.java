@@ -23,7 +23,7 @@ public class Course {
 
         Course c1 = new Course("DevOps",4);
 //        c1.name="DevOps";
-//        c1.learn(c1);
+        c1.learn(c1);
 
         // para
         Course c2 = new Course("DSA",3);
@@ -36,8 +36,8 @@ public class Course {
         System.out.println(c2.duration);
 
     }
-    void learn(Course c){
-        System.out.println("We are learning "+c.name);
+    void learn(Course c1){
+        System.out.println("We are learning "+c1.name);
     }
 
 }

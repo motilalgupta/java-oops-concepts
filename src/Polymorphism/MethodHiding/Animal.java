@@ -1,4 +1,4 @@
-package MethodHiding;
+package Polymorphism.MethodHiding;
 
 class Animal{
     static void show(){

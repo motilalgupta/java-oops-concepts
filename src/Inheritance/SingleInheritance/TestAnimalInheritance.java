@@ -1,5 +1,4 @@
-package Inheritance;
-
+package Inheritance.SingleInheritance;
 public class TestAnimalInheritance {
     public static void main(String[] args) {
         Dog dog = new Dog();

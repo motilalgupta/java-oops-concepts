@@ -26,6 +26,5 @@ public class Students {
     void hello(Students s){
         System.out.println("Hello "+s.name);
 
-
     }
 }
